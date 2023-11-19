@@ -54,8 +54,4 @@ function getData($url) {
 
   return $output;
 }
-
-// Example usage:
-// $response = panggilAPI("GET", "https://api.example.com/data", array('param1' => 'value1'));
-// $data = getData("https://api.example.com/some_endpoint");
 ?>
