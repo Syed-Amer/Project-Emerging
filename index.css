@@ -1,0 +1,33 @@
+body {
+    background-color: antiquewhite;
+}
+div {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    display: block;
+    border: 1px solid black;
+    padding: 10px;
+
+}
+
+label {
+    display: block;
+}
+
+input {
+    display: block;
+}
+
+button {
+    margin-left: 60px;
+}
